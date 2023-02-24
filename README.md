@@ -18,7 +18,7 @@ Data download
 Data preparation
 Statistical analysis
 Data visualization
-The first stage will show you how to download spreadsheet data:
+The first stage will show  how to download spreadsheet data:
 
 indexing of key fields
 working with data types such as datatime
